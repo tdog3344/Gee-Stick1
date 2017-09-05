@@ -1,142 +1,82 @@
-#EXTINF:-1,USA:abc news
-http://xtream.hopto.me:9000/live/9/9/12240.ts
-#EXTINF:-1,USA:ABC News HD
-http://xtream.hopto.me:9000/live/9/9/12215.ts
-#EXTINF:-1,USA:ABC_HD_basket
-http://xtream.hopto.me:9000/live/9/9/12232.ts
-#EXTINF:-1,USA:AFN Sports HD
-http://xtream.hopto.me:9000/live/9/9/12218.ts
-#EXTINF:-1,USA:Beauty iQ
-http://xtream.hopto.me:9000/live/9/9/12241.ts
-#EXTINF:-1,USA:Bein Sports NBA
-http://xtream.hopto.me:9000/live/9/9/12231.ts
-#EXTINF:-1,USA:Bein Sports USA HD
-http://xtream.hopto.me:9000/live/9/9/12213.ts
-#EXTINF:-1,USA:Bravo HD
-http://xtream.hopto.me:9000/live/9/9/12212.ts
-#EXTINF:-1,USA:BTN Sports
-http://xtream.hopto.me:9000/live/9/9/12230.ts
-#EXTINF:-1,USA:C-SPAN1
-http://xtream.hopto.me:9000/live/9/9/12172.ts
-#EXTINF:-1,USA:C-SPAN2
-http://xtream.hopto.me:9000/live/9/9/12171.ts
-#EXTINF:-1,USA:C-SPAN3
-http://xtream.hopto.me:9000/live/9/9/12170.ts
-#EXTINF:-1,USA:Cinemax Moremax
-http://xtream.hopto.me:9000/live/9/9/12210.ts
-#EXTINF:-1,USA:Comedy Central HD
-http://xtream.hopto.me:9000/live/9/9/12209.ts
-#EXTINF:-1,USA:CW HD
-http://xtream.hopto.me:9000/live/9/9/12208.ts
-#EXTINF:-1,USA:Discovery Showcase HD
-http://xtream.hopto.me:9000/live/9/9/12228.ts
-#EXTINF:-1,USA:E!
-http://xtream.hopto.me:9000/live/9/9/12207.ts
-#EXTINF:-1,USA:EMSNBC
-http://xtream.hopto.me:9000/live/9/9/12174.ts
-#EXTINF:-1,USA:ESPN-1HD
-http://xtream.hopto.me:9000/live/9/9/12233.ts
-#EXTINF:-1,USA:Fox 11 Los Angeles
-http://xtream.hopto.me:9000/live/9/9/12245.ts
-#EXTINF:-1,USA:Fox 25 News Boston
-http://xtream.hopto.me:9000/live/9/9/12243.ts
-#EXTINF:-1,USA:FOX SPORT 1 HD
-http://xtream.hopto.me:9000/live/9/9/12185.ts
-#EXTINF:-1,USA:FOX SPORT 2 HD
-http://xtream.hopto.me:9000/live/9/9/12184.ts
-#EXTINF:-1,USA:Golf HD
-http://xtream.hopto.me:9000/live/9/9/12198.ts
-#EXTINF:-1,USA:Hallmark
-http://xtream.hopto.me:9000/live/9/9/12205.ts
-#EXTINF:-1,USA:HBO Comedy
-http://xtream.hopto.me:9000/live/9/9/12204.ts
-#EXTINF:-1,USA:HBO Family
-http://xtream.hopto.me:9000/live/9/9/12203.ts
-#EXTINF:-1,USA:HBO HD
-http://xtream.hopto.me:9000/live/9/9/12202.ts
-#EXTINF:-1,USA:HBO SIGNATURE
-http://xtream.hopto.me:9000/live/9/9/12201.ts
-#EXTINF:-1,USA:Mello TV
-http://xtream.hopto.me:9000/live/9/9/12200.ts
-#EXTINF:-1,USA:MLB Network
-http://xtream.hopto.me:9000/live/9/9/12225.ts
-#EXTINF:-1,USA:MSG
-http://xtream.hopto.me:9000/live/9/9/12224.ts
-#EXTINF:-1,USA:MSNBC HD
-http://xtream.hopto.me:9000/live/9/9/12223.ts
-#EXTINF:-1,USA:NBA HD
-http://xtream.hopto.me:9000/live/9/9/12199.ts
-#EXTINF:-1,USA:NBC HD
-http://xtream.hopto.me:9000/live/9/9/12222.ts
-#EXTINF:-1,USA:NEWSMAX
-http://xtream.hopto.me:9000/live/9/9/12175.ts
-#EXTINF:-1,USA:NHL HD
-http://xtream.hopto.me:9000/live/9/9/12221.ts
-#EXTINF:-1,USA:Nickelodeon HD
-http://xtream.hopto.me:9000/live/9/9/12197.ts
-#EXTINF:-1,USA:PBS HD
-http://xtream.hopto.me:9000/live/9/9/12196.ts
-#EXTINF:-1,USA:RT America HD
-http://xtream.hopto.me:9000/live/9/9/12195.ts
-#EXTINF:-1,USA:RT Documentary
-http://xtream.hopto.me:9000/live/9/9/12194.ts
-#EXTINF:-1,USA:Showtime 2
-http://xtream.hopto.me:9000/live/9/9/12193.ts
-#EXTINF:-1,USA:Showtime HD
-http://xtream.hopto.me:9000/live/9/9/12192.ts
-#EXTINF:-1,USA:Spike HD
-http://xtream.hopto.me:9000/live/9/9/12191.ts
-#EXTINF:-1,USA:Sports Night
-http://xtream.hopto.me:9000/live/9/9/12190.ts
-#EXTINF:-1,USA:SUPERSPORT1
-http://xtream.hopto.me:9000/live/9/9/12169.ts
-#EXTINF:-1,USA:SUPERSPORT2
-http://xtream.hopto.me:9000/live/9/9/12168.ts
-#EXTINF:-1,USA:SUPERSPORT3
-http://xtream.hopto.me:9000/live/9/9/12167.ts
-#EXTINF:-1,USA:SUPERSPORT4
-http://xtream.hopto.me:9000/live/9/9/12166.ts
-#EXTINF:-1,USA:Tennis Channel
-http://xtream.hopto.me:9000/live/9/9/12220.ts
-#EXTINF:-1,USA:The Florida Channel
-http://xtream.hopto.me:9000/live/9/9/12183.ts
-#EXTINF:-1,USA:TLC
-http://xtream.hopto.me:9000/live/9/9/12189.ts
-#EXTINF:-1,USA:TNT HD
-http://xtream.hopto.me:9000/live/9/9/12188.ts
-#EXTINF:-1,USA:TRT-WORLD
-http://xtream.hopto.me:9000/live/9/9/12176.ts
-#EXTINF:-1,USA:TSN 1
-http://xtream.hopto.me:9000/live/9/9/12182.ts
-#EXTINF:-1,USA:TSN 2
-http://xtream.hopto.me:9000/live/9/9/12181.ts
-#EXTINF:-1,USA:TSN 3
-http://xtream.hopto.me:9000/live/9/9/12180.ts
-#EXTINF:-1,USA:TSN 4
-http://xtream.hopto.me:9000/live/9/9/12179.ts
-#EXTINF:-1,USA:TSN 5
-http://xtream.hopto.me:9000/live/9/9/12178.ts
-#EXTINF:-1,USA:TSN- 2
-http://xtream.hopto.me:9000/live/9/9/12237.ts
-#EXTINF:-1,USA:TSN-1*
-http://xtream.hopto.me:9000/live/9/9/12238.ts
-#EXTINF:-1,USA:TSN-3
-http://xtream.hopto.me:9000/live/9/9/12236.ts
-#EXTINF:-1,USA:TSN-4
-http://xtream.hopto.me:9000/live/9/9/12235.ts
-#EXTINF:-1,USA:TSN-5*
-http://xtream.hopto.me:9000/live/9/9/12234.ts
-#EXTINF:-1,USA:TV Land
-http://xtream.hopto.me:9000/live/9/9/12187.ts
-#EXTINF:-1,USA:UC TV
-http://xtream.hopto.me:9000/live/9/9/12186.ts
-#EXTINF:-1,USA:FLOSOFT
-http://xtream.hopto.me:9000/live/9/9/10338.ts
-#EXTINF:-1,USA:CNN_HD
-http://xtream.hopto.me:9000/live/9/9/10339.ts
-#EXTINF:-1,USA:NFL NOW HD US
-http://xtream.hopto.me:9000/live/9/9/12219.ts
-#EXTINF:-1,USA:WWE NETWORK
-http://xtream.hopto.me:9000/live/9/9/12239.ts
-#EXTINF:-1,USA:WWE RAW HD
-http://xtream.hopto.me:9000/live/9/9/12177.ts
+#EXTM3U 
+#EXTINF:-1,-------GATLINATOR-------
+#EXTINF:-1,USA2 | ABC NY 
+http://149.56.16.17:25461/live/SOLOTV-NOW/SOLOTV-NOW/959.m3u8 
+#EXTINF:-1,USA2 | AFN Prime Atlantic 
+http://149.56.16.17:25461/live/SOLOTV-NOW/SOLOTV-NOW/1396.m3u8 
+#EXTINF:-1,USA2 | DISNEY XD 
+http://149.56.16.17:25461/live/SOLOTV-NOW/SOLOTV-NOW/1405.m3u8 
+#EXTINF:-1,USA2 | AFN Sports 
+http://149.56.16.17:25461/live/SOLOTV-NOW/SOLOTV-NOW/1371.m3u8 
+#EXTINF:-1,USA2 | AFN Sports 2 HD 
+http://149.56.16.17:25461/live/SOLOTV-NOW/SOLOTV-NOW/1370.m3u8 
+#EXTINF:-1,USA2 | Animal Planet Local 
+http://149.56.16.17:25461/live/SOLOTV-NOW/SOLOTV-NOW/1421.m3u8 
+#EXTINF:-1,USA2 | BEIN ES-NY 
+http://149.56.16.17:25461/live/SOLOTV-NOW/SOLOTV-NOW/950.m3u8 
+#EXTINF:-1,USA2 | Bein Sports HD 
+http://149.56.16.17:25461/live/SOLOTV-NOW/SOLOTV-NOW/906.m3u8 
+#EXTINF:-1,My9 
+http://dns1.theplayersklub.host:2095/live/steel1/steel1/1613.ts 
+#EXTINF:-1,ABC NEWS 
+http://dns1.theplayersklub.host:2095/live/steel1/steel1/108.ts 
+#EXTINF:-1,CBSSN 
+http://dns1.theplayersklub.host:2095/live/steel1/steel1/220.ts 
+#EXTINF:-1,COOKING CHANNEL 
+http://dns1.theplayersklub.host:2095/live/steel1/steel1/211.ts 
+#EXTINF:-1,DISCOVERY SCIENCE 
+http://dns1.theplayersklub.host:2095/live/steel1/steel1/206.ts 
+#EXTINF:-1,FOOD NETWORK 
+http://dns1.theplayersklub.host:2095/live/steel1/steel1/195.ts 
+#EXTINF:-1,FOX SPORTS 1 
+http://dns1.theplayersklub.host:2095/live/steel1/steel1/188.ts 
+#EXTINF:-1,FOX SPORTS 2 
+http://dns1.theplayersklub.host:2095/live/steel1/steel1/187.ts 
+#EXTINF:-1,HBO 2 
+http://dns1.theplayersklub.host:2095/live/steel1/steel1/174.ts 
+#EXTINF:-1,HBO COMEDY 
+http://dns1.theplayersklub.host:2095/live/steel1/steel1/173.ts 
+#EXTINF:-1,HBO FAMILY 
+http://dns1.theplayersklub.host:2095/live/steel1/steel1/172.ts 
+#EXTINF:-1,MLB NETWORK 
+http://dns1.theplayersklub.host:2095/live/steel1/steel1/160.ts 
+#EXTINF:-1,MTV 
+http://dns1.theplayersklub.host:2095/live/steel1/steel1/158.ts 
+#EXTINF:-1,NAT GEO WILD 
+http://dns1.theplayersklub.host:2095/live/steel1/steel1/157.ts 
+#EXTINF:-1,NBCSN 
+http://dns1.theplayersklub.host:2095/live/steel1/steel1/149.ts 
+#EXTINF:-1,NFL NOW 
+http://dns1.theplayersklub.host:2095/live/steel1/steel1/148.ts 
+#EXTINF:-1,NHL NETWORK 
+http://dns1.theplayersklub.host:2095/live/steel1/steel1/147.ts 
+#EXTINF:-1,TCM 
+http://dns1.theplayersklub.host:2095/live/steel1/steel1/128.ts 
+#EXTINF:0,USA:L USA Network 
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2408.m3u8 
+#EXTINF:0,USA:L US TBS HD 
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2421.m3u8 
+#EXTINF:0,USA:L US NICK 
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2458.m3u8 
+#EXTINF:0,USA:L TNT 
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2418.m3u8 
+#EXTINF:0,USA:L THE CW Central 
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2412.m3u8 
+#EXTINF:0,USA:L SYFY USA 
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2425.m3u8 
+#EXTINF:0,USA:L SPIKE HD 
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2428.m3u8 
+#EXTINF:0,USA:L SHOWTIME HD 
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2438.m3u8 
+#EXTINF:0,USA:L PBS HD 
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2422.m3u8 
+#EXTINF:0,USA:L NBC HD 
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2420.m3u8 
+#EXTINF:0,USA:L NBC 
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2419.m3u8 
+#EXTINF:0,USA:L my9 
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2423.m3u8 
+#EXTINF:0,USA:L Lifetime 
+http://192.99.149.20:8080/live/internal_stalker/internal_use/2424.m3u8 
+#EXTINF:0,USA:L HBO Zone HD
+#EXTINF:-1,USA2
