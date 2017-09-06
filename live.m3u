@@ -1,32 +1,104 @@
-#EXTM3U 
-#EXTINF:-1,-------GATLINATOR-------
-#EXTINF:-1,
-http://best-anonymous.eu:8000/get.php?username=filippo1&password=carmine&type=m3u
-#EXTINF:-1,
-http://www.speedyiptv.com/category/free-m3u-playlist/
-#EXTINF:-1,
-http://xtream.hopto.me:9000/get.php?username=18&password=18&type=m3u
-#EXTINF:-1,
-http://217.23.1.3:6969/get.php?username=Curtis&password=Curtis&type=m3u
-#EXTINF:-1,
-http://217.23.1.3:6969/get.php?username=Linda&password=Linda&type=m3u
-#EXTINF:-1
-http://localhd.tv:8081/get.php?username=clientsNgra&password=en8I0mJmWB&type=m3u
-#EXTINF:-1
-http://system.fpiptv.com:8080/get.php?username=piri&password=piri&type=m3u
-#EXTINF:-1,
-http://midnightiptvstreams.ddns.net:5050/get.php?username=aa1&password=aa1&type=m3u
-#EXTINF:-1,
-http://193.70.116.156:8080/get.php?username=aliguner1&password=fIZgJmqKp2&type=m3u
-#EXTINF:-1,
-http://midnightiptvstreams.ddns.net:5050/get.php?username=adam1&password=adam1&type=m3u
+#EXTM3U
 
-http://portal.softclientarea.com:9100/get.php?username=john&password=john&type=m3u
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/4ui78x.png" group-title="LABEL",* Fluxus TV
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
-http://193.200.164.137:8080/get.php?username=RFGFZfglhU&password=QiFtilh7Cs&type=m3u
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="LABEL",+ Free World IPTV
+http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-http://www.speedyiptv.com/category/free-m3u-playlist/
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="LABEL",< Please Donate
+http://sc9106.xpx.pl:9106/
 
-http://ns3027446.ip-149-202-199.eu:8181/get.php?username=zixfrance&password=francezix&type=m3u
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Sep.05.2017
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-http://midnightiptvstreams.ddns.net:5050/get.php?username=angeline1&password=angeline1&type=m3u
+#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+
+#EXTINF:-1 tvg-logo="http://www.easternrefinishing.com/wp-content/uploads/2016/02/117380-matte-blue-and-white-square-icon-culture-world1-150x150.png" group-title="LABEL",~ World News ~
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://drjasonjohnson.files.wordpress.com/2016/05/08-al-jazeera-e1336473401965.gif" group-title="WORLD NEWS",Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3130.png" group-title="WORLD NEWS",BBC World News
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg" group-title="WORLD NEWS",Bloomberg TV Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://singapore.mfa.gov.ua/mediafiles/sites/singapore/images/articles/tmbs/CNA_logo-tmb-270x180.jpg" group-title="WORLD NEWS",Channel NewsAsia
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pumamedia.com.au/DW_English.jpg" group-title="WORLD NEWS",Deutsche Welle
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-7Xjq8QzxxS0/WTEG5Ex_DII/AAAAAAAAAws/htyaTT4c7JcaDLXUFVrpOulxk2dyym46QCLcB/s1600/earthtv.png" group-title="WORLD NEWS",earthTV
+http://cdn.liveonearth.com//cdnedge//smil:TWL-en.smil//playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isetnews.com/wp-content/plugins/mediabox/TvLogos/France24TV.jpg" group-title="WORLD NEWS",France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/80.jpg" group-title="WORLD NEWS",NHK World
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UjIHTlp.jpg" group-title="WORLD NEWS",Press TV
+http://efusion1-i.akamaihd.net/hls/live/252882/ptven/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.televizyondizisi.com/wp-content/uploads/2015/10/TRTWORLDHABER.png" group-title="WORLD NEWS",TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA TV ~
+http://www.lengua.com/anthems/USA.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" group-title="USA",Animal Planet
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4547.jpg" group-title="USA",D23 TV
+http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/IH7rVcy.png" group-title="USA",Channel 7 [NoRoku]
+http://radio.7chan.org:8000/CH7
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static-17.sinclairstoryline.com/resources/media/ba7cba73-6daf-416c-ab9d-622cc4ab616e-large16x9_TBDTV.jpg" group-title="USA",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wnyt.com/wnytimages/repository/2014-03/MeTV%20Network%20Logo%20W%20BKGND%20SHAPES.jpg" group-title="USA",MeTV
+http://video.metv.com/metv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://machammond.org/wp-content/uploads/2016/04/koolTV.gif" group-title="USA",Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rokuguide.com/sites/default/files/wilderness-channel_0.png" group-title="USA",Wilderness Channel
+http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.revntv.com/media/site/images/logo_revntv.png" group-title="USA",Rev'n
+http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Current_logo_for_TUFF_TV.png" group-title="USA",Tuff TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png" group-title="USA",Hunt Channel
+http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Biz_LOGO.PNG" group-title="USA",Biz TV
+http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png" group-title="USA",NASA TV Public
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png" group-title="USA",NASA TV Media
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/05/channels-page-_0000_yes.png" group-title="USA",Yes TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Classic_Arts_Showcase.png" group-title="USA",Classic Arts Showcase
+http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mctvohio.com/uploads/mc-black-beveledstyle.jpg" group-title="USA",Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a2.allaccess.com/assets/img/content/socialmediology-101/2011/sm-08-16-pic1.jpg" group-title="USA",The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+
